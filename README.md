@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/funesiana/.github/main/assets/logo.png" alt="Editorial Funesiana" width="180">
+  <br><br>
+  <img src="https://raw.githubusercontent.com/funesiana/.github/main/assets/lucasoliveira.jpeg" alt="Lucas Oliveira" width="200">
+</div>
+
 # Lucas Oliveira 👋
 
 Mi nombre es Lucas Oliveira. Desde 2007, mi trayectoria en el ecosistema del libro se define por una obsesión: devolverle a la edición su carácter de oficio estratégico y de valor excepcional.
