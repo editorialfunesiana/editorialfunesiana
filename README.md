@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/funesiana/.github/main/assets/logo.png" alt="Editorial Funesiana" width="180">
   <br><br>
-  <img src="https://raw.githubusercontent.com/funesiana/.github/main/assets/lucasoliveira.jpeg" alt="Lucas Oliveira" width="200">
+  <img src="assets/lucasoliveira.jpeg" alt="Lucas Oliveira" width="200">
 </div>
 
 # Lucas Oliveira 👋
